@@ -1,0 +1,28 @@
+.icon {
+    width: 100px;
+    height: 100px;
+  }
+  .features-container1 {
+    padding: 140px 170px 70px 170px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: no-wrap;
+  }
+  .features-container2 {
+    padding: 70px 170px 140px 170px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: no-wrap;
+  }
+  .features-item-name {
+    width: 370px;
+    height: 72px;
+  }
+  .features-item-description {
+    width: 370px;
+    height: 84px;
+  }
