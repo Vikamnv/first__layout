@@ -1,0 +1,13 @@
+.work_container {
+    width: 100%;
+    display: flex;
+    flex-wrap: no-wrap;
+}
+.work_card {
+
+}
+.work_photo {
+    width: 378px;
+    height: 340px;
+    object-fit: cover;
+}
