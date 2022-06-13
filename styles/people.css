@@ -1,0 +1,37 @@
+.team {
+  display: flex;
+  justify-content: space-between;
+  padding: 100px 150px 100px 150px;
+}
+.team_card {
+  width: 270px;
+}
+.team_card_name {
+  padding: 20px 0px 5px;
+  font-size: 24px;
+  font-weight: 550px;
+  line-height: 28px;
+  letter-spacing: 1px;
+  text-align: left;
+}
+.team_card_job {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: var(--color-coral);
+  text-transform: uppercase;
+}
+.team_card_description {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: var(--color-grey);
+  padding: 20px 0px 5px;
+}
+.team_icon:hover {
+  opacity: 0.3;
+}

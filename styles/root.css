@@ -2,11 +2,15 @@
   --color-grey: #6c7279;
   --color-white: #ffffff;
   --color-coral: #ff4343;
+  --color-red: #B90C0CCC;
+
 }
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  -webkit-user-select: none;
+  user-select: none;  
 }
 
 a {
