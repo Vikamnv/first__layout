@@ -3,10 +3,21 @@
     height: 450px;
 }
 .download_title {
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: center;    
+padding-top: 90px ;
+}
+.download_description {
 font-size: 18px;
-font-weight: 700px;
+font-weight: 500;
 line-height: 21px;
-letter-spacing: 0em;
 text-align: center;
-
+text-transform: uppercase;
+padding-top: 15px;
+}
+.download_button {
+    text-align: center;
 }
